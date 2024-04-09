@@ -15,6 +15,7 @@ todo:
 - ipv login wil ik
   - newsletter subscription button
   - contact form
+  - kijken hoe php naar js te vertalen?
 - beetje spelen met design
 - leren css
 - meer leren over de frameworks
