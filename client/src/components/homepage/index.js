@@ -123,3 +123,5 @@ function Homepage({ onLogout }) {
 }
 
 export default Homepage;
+
+// hier kan je zien hoe de html dingen werken in jc
