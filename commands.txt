@@ -57,3 +57,5 @@ aanmaken van een <name>.js file (dit is dan de pagina die wordt getoont)
 in package.json
 "<functie>": "node <name>.js"
 pagina laten laden met npm <functie>
+
+http://localhost:3031/
