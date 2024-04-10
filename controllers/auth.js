@@ -18,6 +18,7 @@ const login = async (req, res = response) => {
   });
 };
 
+// maakt dit toeganlijk voor andere dingen
 module.exports = {
   login,
 };

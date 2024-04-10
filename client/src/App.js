@@ -20,6 +20,7 @@ function App() {
   };
 
   return (
+    // geeft aan naar welke site hij moet
     (isUserSignedIn && <Homepage onLogout={onLogout} />) || (
       <Login onLoginSuccessful={onLoginSuccessful} />
     )

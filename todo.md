@@ -4,12 +4,12 @@ https://elements.heroku.com/buttons/heroku/node-js-getting-started
 
 https://medium.com/geekculture/build-and-deploy-a-web-application-with-react-and-node-js-express-bce2c3cfec32
 
-
 dit vormt een degleijke basis voor eigen web app.
 
 todo:
 
 - leren js
+  - wat zijn get & post methods
 - vinden welke webpagina waar leeft
 - leren hoe te werken met routers
 - ipv login wil ik
@@ -23,7 +23,6 @@ todo:
   - node.js
 - meer leren over de stack
 - mern (of toch mean?)
-
 
 wanneer dit allemaal loopt:
 

@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const path = require("path");
 
+// initializing server
 class Server {
   constructor() {
     this.app = express();
@@ -20,6 +21,7 @@ class Server {
     this.app.use(express.json());
 
     // Pick up React index.html file
+    // deze bevat like html skelet met heel veel js script (en script maken)
     this.app.use(
       express.static(path.join(__dirname, "../client/build"))
     );
